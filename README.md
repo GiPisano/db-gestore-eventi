@@ -30,3 +30,7 @@ In ogni query è indicato il numero di risultati previsti, per permettervi di ve
 - MySQL
 - PHP
 - Bootstrsp
+
+
+
+[![Diagramma ER](./img/diagram_ER.jpg)](./img/diagram_ER.jpg)
